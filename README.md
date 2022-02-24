@@ -4,4 +4,4 @@ Bu proje [ https://www.youtube.com/c/OnlineTutorials4Designers/videos ] kanalın
 ***
 # Kullanımı
 ***
-Dosyaları istediiğiniz gibi indirip ve ya kulonlayıp kullanabilirsiniz
+Dosyaları istediğiniz gibi indirip yada gitclone ile kullanabilirsiniz
